@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: MIT OR AGPL-3.0-or-later
+// SPDX-License-Identifier: MIT OR PMPL-1.0-or-later
 // SPDX-FileCopyrightText: 2024-2025 Hyper Polymath
 
 = RSR Template Repository
@@ -299,7 +299,7 @@ just --list
 
 == License
 
-Dual-licensed under **MIT** OR **AGPL-3.0-or-later** at your option.
+Dual-licensed under **MIT** OR **PMPL-1.0-or-later** at your option.
 
 ---
 
