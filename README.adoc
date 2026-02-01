@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: MIT OR PMPL-1.0-or-later
+// SPDX-License-Identifier: MPL-2.0-or-later
 // SPDX-FileCopyrightText: 2024-2025 Hyper Polymath
 
 = RSR Template Repository
@@ -15,9 +15,15 @@
 [.lead]
 The **Rhodium Standard Repository** (RSR) template—a comprehensive framework for creating secure, polyglot, FOSS-compliant repositories with enforced language policy and cross-platform deployment.
 
-image:https://img.shields.io/badge/license-MIT%20OR%20AGPL--3.0--or--later-blue[License]
+image:https://img.shields.io/badge/License-MPL_2.0-blue.svg[MPL-2.0-or-later,link="https://opensource.org/licenses/MPL-2.0"]
 image:https://img.shields.io/badge/phase-1%20complete-brightgreen[Phase 1 Complete]
 image:https://img.shields.io/badge/shells-22%20supported-orange[22 Shells]
+
+== License & Philosophy
+
+This project must declare **MPL-2.0-or-later** for platform/tooling compatibility.
+
+Philosophy: **Palimpsest**. The Palimpsest-MPL (PMPL) text is provided in `license/PMPL-1.0.txt`, and the canonical source is the palimpsest-license repository.
 
 toc::[]
 
